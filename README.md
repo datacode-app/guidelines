@@ -19,6 +19,8 @@ These guidelines help us:
 - **[Code Review Guide](code-review-guide.md)** - Best practices for authors and reviewers
 
 ### 🔧 Technical Standards
+- **[Code Style Guide](code-style-guide.md)** - Formatting, naming conventions, and code organization standards
+- **[API Design Standards](api-design-standards.md)** - REST API conventions, versioning, and best practices
 - **[Git Workflow Guide](git-workflow-guide.md)** - Branching strategy, commit conventions, and Git best practices
 - **[Testing Standards](testing-standards.md)** - Testing philosophy, coverage requirements, and best practices
 - **[Security Best Practices](security-best-practices.md)** - Security guidelines for authentication, data protection, and secure coding
@@ -26,17 +28,22 @@ These guidelines help us:
 ### 📐 Design & Architecture
 - **[Technical Design Document Template](technical-design-doc-template.md)** - Template for documenting technical designs and architectural decisions
 
+### ⚡ Quick Reference
+- **[Quick Reference Guide](quick-reference.md)** - Cheat sheet for common commands, workflows, and checklists
+
 ### 🚨 Operations
 - **[Incident Response Guide](incident-response-guide.md)** - Procedures for handling production incidents and post-mortems
 
 ## Quick Start
 
 ### For New Engineers
-1. Read the [Daily Report Guide](daily-report-guide.md) to understand our communication practices
-2. Review [Git Workflow Guide](git-workflow-guide.md) for our branching and commit conventions
-3. Familiarize yourself with [Code Review Guide](code-review-guide.md)
-4. Understand [Definition of Done](definition-of-done.md) before starting work
-5. Review [Security Best Practices](security-best-practices.md) for security fundamentals
+1. **Start here**: [Quick Reference Guide](quick-reference.md) - Bookmark this page!
+2. Read the [Daily Report Guide](daily-report-guide.md) to understand our communication practices
+3. Review [Git Workflow Guide](git-workflow-guide.md) for our branching and commit conventions
+4. Study [Code Style Guide](code-style-guide.md) to understand our formatting standards
+5. Familiarize yourself with [Code Review Guide](code-review-guide.md)
+6. Understand [Definition of Done](definition-of-done.md) before starting work
+7. Review [Security Best Practices](security-best-practices.md) for security fundamentals
 
 ### Before Starting a Task
 - [ ] Understand the acceptance criteria
@@ -84,6 +91,7 @@ All our guidelines are based on these core principles:
 
 | Date | Change | Author |
 |------|--------|--------|
+| 2024-03-16 | Added Code Style Guide, API Design Standards, and Quick Reference | CTO |
 | 2024-03-16 | Added comprehensive engineering guidelines | CTO |
 | 2024-03-16 | Initial repository creation with daily report guide | Hooshyar |
 
