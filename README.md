@@ -40,6 +40,11 @@ These guidelines help us:
 - **[Guidelines Governance](guidelines-governance.md)** - How we maintain, update, and enforce these guidelines
 - **[Adoption Roadmap](adoption-roadmap.md)** - Phased 12-week plan for rolling out guidelines across the organization
 
+### 🛠️ Implementation & Examples
+- **[Implementation Guide](implementation-guide.md)** - Ready-to-use configs, scripts, and automation
+- **[Templates](templates/)** - Copy-paste starter files for new projects
+- **[Examples](examples/)** - Real code examples showing guidelines in practice
+
 ## Quick Start
 
 ### For New Engineers
@@ -59,6 +64,13 @@ These guidelines help us:
 **Adopt these guidelines**: [Adoption Roadmap](adoption-roadmap.md) - 12-week phased rollout plan
 
 **Maintain and govern**: [Guidelines Governance](guidelines-governance.md) - Ownership, updates, and enforcement
+
+### For Implementation
+**Set up a new project**: [Implementation Guide](implementation-guide.md) - Configs, scripts, and automation
+
+**Copy starter files**: [Templates Directory](templates/) - Ready-to-use configuration files
+
+**See examples**: [Examples Directory](examples/) - Real code demonstrating best practices
 
 ### Before Starting a Task
 - [ ] Understand the acceptance criteria
@@ -112,6 +124,7 @@ Read our complete [Engineering Principles](engineering-principles.md) document.
 
 | Date | Change | Author |
 |------|--------|--------|
+| 2024-03-16 | Added Implementation Guide, Templates, and Examples - Complete actionability layer | CTO |
 | 2024-03-16 | Added Engineering Principles, Onboarding, Governance, and Adoption Roadmap | CTO |
 | 2024-03-16 | Added Code Style Guide, API Design Standards, and Quick Reference | CTO |
 | 2024-03-16 | Added comprehensive engineering guidelines | CTO |
