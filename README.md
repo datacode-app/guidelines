@@ -13,6 +13,11 @@ These guidelines help us:
 
 ## Guidelines Overview
 
+### 🎯 Start Here
+- **[Engineering Principles](engineering-principles.md)** - Our foundational beliefs and values—the WHY behind everything we do
+- **[Quick Reference Guide](quick-reference.md)** - Cheat sheet for common commands, workflows, and checklists
+- **[Onboarding Guide](onboarding-guide.md)** - Structured 90-day plan for new engineers
+
 ### 📋 Development Process
 - **[Daily Report Guide](daily-report-guide.md)** - Format and expectations for daily developer updates
 - **[Definition of Done](definition-of-done.md)** - What it means for work to be complete and production-ready
@@ -28,22 +33,32 @@ These guidelines help us:
 ### 📐 Design & Architecture
 - **[Technical Design Document Template](technical-design-doc-template.md)** - Template for documenting technical designs and architectural decisions
 
-### ⚡ Quick Reference
-- **[Quick Reference Guide](quick-reference.md)** - Cheat sheet for common commands, workflows, and checklists
-
 ### 🚨 Operations
 - **[Incident Response Guide](incident-response-guide.md)** - Procedures for handling production incidents and post-mortems
+
+### 🔄 Meta & Governance
+- **[Guidelines Governance](guidelines-governance.md)** - How we maintain, update, and enforce these guidelines
+- **[Adoption Roadmap](adoption-roadmap.md)** - Phased 12-week plan for rolling out guidelines across the organization
 
 ## Quick Start
 
 ### For New Engineers
-1. **Start here**: [Quick Reference Guide](quick-reference.md) - Bookmark this page!
-2. Read the [Daily Report Guide](daily-report-guide.md) to understand our communication practices
-3. Review [Git Workflow Guide](git-workflow-guide.md) for our branching and commit conventions
-4. Study [Code Style Guide](code-style-guide.md) to understand our formatting standards
-5. Familiarize yourself with [Code Review Guide](code-review-guide.md)
-6. Understand [Definition of Done](definition-of-done.md) before starting work
-7. Review [Security Best Practices](security-best-practices.md) for security fundamentals
+**Follow the**: [Onboarding Guide](onboarding-guide.md) - Complete 90-day structured plan
+
+**Quick Start**:
+1. **Start here**: [Engineering Principles](engineering-principles.md) - Understand our WHY
+2. **Bookmark**: [Quick Reference Guide](quick-reference.md) - Your daily cheat sheet
+3. Read the [Daily Report Guide](daily-report-guide.md) to understand our communication practices
+4. Review [Git Workflow Guide](git-workflow-guide.md) for our branching and commit conventions
+5. Study [Code Style Guide](code-style-guide.md) to understand our formatting standards
+6. Familiarize yourself with [Code Review Guide](code-review-guide.md)
+7. Understand [Definition of Done](definition-of-done.md) before starting work
+8. Review [Security Best Practices](security-best-practices.md) for security fundamentals
+
+### For Engineering Leadership
+**Adopt these guidelines**: [Adoption Roadmap](adoption-roadmap.md) - 12-week phased rollout plan
+
+**Maintain and govern**: [Guidelines Governance](guidelines-governance.md) - Ownership, updates, and enforcement
 
 ### Before Starting a Task
 - [ ] Understand the acceptance criteria
@@ -72,14 +87,20 @@ These guidelines are living documents and should evolve with our team and techno
 
 ## Principles
 
-All our guidelines are based on these core principles:
+Read our complete [Engineering Principles](engineering-principles.md) document.
 
-1. **Quality First** - We build software that lasts
-2. **Security by Design** - Security is everyone's responsibility
-3. **Fast Feedback** - Optimize for quick iteration cycles
-4. **Team Over Individual** - Practices that help the team win
-5. **Continuous Improvement** - Always learning and evolving
-6. **Pragmatism** - Balance perfection with shipping
+**Summary**:
+
+1. **User Impact > Technical Perfection** - Solve real problems for real people
+2. **Velocity Through Quality** - Quality makes us faster in the long run
+3. **Team Success > Individual Heroics** - We win together
+4. **Security is Everyone's Job** - Build safely from the start
+5. **Measure, Don't Guess** - Data beats opinions
+6. **Learn Continuously, Teach Generously** - Grow together
+7. **Own Your Impact** - You build it, you run it
+8. **Communicate Early, Communicate Often** - Over-communicate on everything
+9. **Iterate Fast, Fail Forward** - Learn from failures, improve systems
+10. **Simple > Clever** - Write code that others can understand
 
 ## Support
 
@@ -91,6 +112,7 @@ All our guidelines are based on these core principles:
 
 | Date | Change | Author |
 |------|--------|--------|
+| 2024-03-16 | Added Engineering Principles, Onboarding, Governance, and Adoption Roadmap | CTO |
 | 2024-03-16 | Added Code Style Guide, API Design Standards, and Quick Reference | CTO |
 | 2024-03-16 | Added comprehensive engineering guidelines | CTO |
 | 2024-03-16 | Initial repository creation with daily report guide | Hooshyar |
